@@ -1,0 +1,4 @@
+﻿# build output
+Source/**/bin/
+Source/**/obj/
+
